@@ -1,0 +1,8 @@
+/__pycache__/
+/build/
+/dist/
+gui.spec
+
+test.py
+oldbutgold.py
+config.py
